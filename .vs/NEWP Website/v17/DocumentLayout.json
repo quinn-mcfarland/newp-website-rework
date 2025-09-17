@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\lilmc\\source\\repos\\NEWP Website\\",
+  "WorkspaceRootPath": "C:\\Users\\lilmc\\OneDrive\\Documents\\Repos\\newp-website-rework\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|C:\\Users\\lilmc\\source\\repos\\NEWP Website\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|C:\\Users\\lilmc\\OneDrive\\Documents\\Repos\\newp-website-rework\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|solutionrelative:style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|C:\\Users\\lilmc\\source\\repos\\NEWP Website\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|solutionrelative:index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|C:\\Users\\lilmc\\OneDrive\\Documents\\Repos\\newp-website-rework\\about-us.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|solutionrelative:about-us.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "style.css",
-              "DocumentMoniker": "C:\\Users\\lilmc\\source\\repos\\NEWP Website\\style.css",
+              "DocumentMoniker": "C:\\Users\\lilmc\\OneDrive\\Documents\\Repos\\newp-website-rework\\style.css",
               "RelativeDocumentMoniker": "style.css",
-              "ToolTip": "C:\\Users\\lilmc\\source\\repos\\NEWP Website\\style.css",
+              "ToolTip": "C:\\Users\\lilmc\\OneDrive\\Documents\\Repos\\newp-website-rework\\style.css",
               "RelativeToolTip": "style.css",
-              "ViewState": "AgIAACcAAAAAAAAAAAAAADYAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAEMAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2025-09-03T04:42:45.523Z",
               "IsPinned": true,
@@ -37,14 +37,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "index.html",
-              "DocumentMoniker": "C:\\Users\\lilmc\\source\\repos\\NEWP Website\\index.html",
-              "RelativeDocumentMoniker": "index.html",
-              "ToolTip": "C:\\Users\\lilmc\\source\\repos\\NEWP Website\\index.html",
-              "RelativeToolTip": "index.html",
-              "ViewState": "AgIAAEUAAAAAAAAAAAAAAF4AAACzAAAAAAAAAA==",
+              "Title": "about-us.html",
+              "DocumentMoniker": "C:\\Users\\lilmc\\OneDrive\\Documents\\Repos\\newp-website-rework\\about-us.html",
+              "RelativeDocumentMoniker": "about-us.html",
+              "ToolTip": "C:\\Users\\lilmc\\OneDrive\\Documents\\Repos\\newp-website-rework\\about-us.html",
+              "RelativeToolTip": "about-us.html",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAG8AAABnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-09-03T04:20:16.848Z",
+              "WhenOpened": "2025-09-17T17:18:52.015Z",
               "EditorCaption": ""
             }
           ]
