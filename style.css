@@ -72,6 +72,70 @@ button a {
     text-decoration: none;
     color: black;
 }
+
+/*Shipyard Build Box*/
+.build-box {
+    display: grid;
+    margin: 10px;
+    border: 5px solid black;
+    border-radius: 30px;
+    padding: 5px;
+    height: 500px;
+    width: 700px;
+    font-family: "Montserrat", sans-serif;
+    vertical-align: middle;
+    
+}
+
+.build-box ul {
+    list-style-type: none;
+    margin-right: 40px;
+}
+
+.build-box h2 {
+    text-align: center;
+}
+
+.build-box p {
+    text-align: center;
+}
+
+.build-box #basic-info {
+    grid-column: 1 / span 2;
+    grid-row: 1 / span 1;
+}
+
+.build-box #author {
+    grid-column: 1 / span 2;
+    grid-row: 2 / span 1;
+}
+
+.build-box #build-info {
+    grid-column: 1 / span 1;
+    grid-row: 3 / span 1;
+    text-align: center;
+}
+
+.build-box #requirements {
+    grid-column: 2 / span 1;
+    grid-row: 3 / span 1;
+    text-align: center;
+}
+.build-box button{
+    border: 1px solid black;
+    border-radius: 25px;
+    margin-bottom: 10px;
+    margin-left: 275px;
+    background-color: darkorange;
+    width: 100px;
+    grid-column: 1 / span 2;
+    grid-row: 4 / span 1;
+}
+
+.build-box button a {
+    text-decoration: none;
+    color: black;
+}
 /* Footer Content */
 footer {
     background-color: black;
