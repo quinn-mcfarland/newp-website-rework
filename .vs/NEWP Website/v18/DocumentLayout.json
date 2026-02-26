@@ -7,12 +7,16 @@
       "RelativeMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|solutionrelative:shipyard.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|C:\\Users\\lilmc\\OneDrive\\Documents\\Repos\\newp-website-rework\\about-us.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|solutionrelative:about-us.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|C:\\Users\\lilmc\\OneDrive\\Documents\\Repos\\newp-website-rework\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|solutionrelative:index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|C:\\Users\\lilmc\\OneDrive\\Documents\\Repos\\newp-website-rework\\about-us.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|solutionrelative:about-us.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|C:\\Users\\lilmc\\OneDrive\\Documents\\Repos\\newp-website-rework\\new-page-template.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|solutionrelative:new-page-template.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|C:\\Users\\lilmc\\OneDrive\\Documents\\Repos\\newp-website-rework\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
@@ -30,7 +34,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "style.css",
               "DocumentMoniker": "C:\\Users\\lilmc\\OneDrive\\Documents\\Repos\\newp-website-rework\\style.css",
               "RelativeDocumentMoniker": "style.css",
@@ -39,31 +43,30 @@
               "ViewState": "AgIAACEAAAAAAAAAAAAAAH8AAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2026-02-24T03:50:10.809Z",
-              "IsPinned": true,
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "new-page-template.html",
+              "DocumentMoniker": "C:\\Users\\lilmc\\OneDrive\\Documents\\Repos\\newp-website-rework\\new-page-template.html",
+              "RelativeDocumentMoniker": "new-page-template.html",
+              "ToolTip": "C:\\Users\\lilmc\\OneDrive\\Documents\\Repos\\newp-website-rework\\new-page-template.html",
+              "RelativeToolTip": "new-page-template.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-02-26T05:41:06.314Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "index.html",
-              "DocumentMoniker": "C:\\Users\\lilmc\\OneDrive\\Documents\\Repos\\newp-website-rework\\index.html",
-              "RelativeDocumentMoniker": "index.html",
-              "ToolTip": "C:\\Users\\lilmc\\OneDrive\\Documents\\Repos\\newp-website-rework\\index.html",
-              "RelativeToolTip": "index.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGsAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2026-02-24T03:50:53.279Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "about-us.html",
               "DocumentMoniker": "C:\\Users\\lilmc\\OneDrive\\Documents\\Repos\\newp-website-rework\\about-us.html",
               "RelativeDocumentMoniker": "about-us.html",
               "ToolTip": "C:\\Users\\lilmc\\OneDrive\\Documents\\Repos\\newp-website-rework\\about-us.html",
               "RelativeToolTip": "about-us.html",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAAEoAAABTAAAAAAAAAA==",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAAAI4AAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2026-02-26T00:17:22.71Z",
               "EditorCaption": ""
@@ -76,9 +79,28 @@
               "RelativeDocumentMoniker": "shipyard.html",
               "ToolTip": "C:\\Users\\lilmc\\OneDrive\\Documents\\Repos\\newp-website-rework\\shipyard.html",
               "RelativeToolTip": "shipyard.html",
-              "ViewState": "AgIAAFoAAAAAAAAAAAAAAGcAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAAAGcAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2026-02-24T03:50:10.816Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\lilmc\\OneDrive\\Documents\\Repos\\newp-website-rework\\index.html",
+              "RelativeDocumentMoniker": "index.html",
+              "ToolTip": "C:\\Users\\lilmc\\OneDrive\\Documents\\Repos\\newp-website-rework\\index.html",
+              "RelativeToolTip": "index.html",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAAGcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-02-24T03:50:53.279Z",
               "EditorCaption": ""
             }
           ]
